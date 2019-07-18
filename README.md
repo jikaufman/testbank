@@ -1,5 +1,3 @@
-# UPE_Testbank_Scrape
-
 How to use:
 
 On the command-line/terminal type:
